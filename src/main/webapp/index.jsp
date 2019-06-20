@@ -109,6 +109,7 @@
 		 <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
+		      <img src="ATT00001.jpg">
                 <img class="card-img-top" src="docker.png" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">Learning â Blended to Perfection</p>
