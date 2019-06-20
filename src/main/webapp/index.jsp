@@ -72,7 +72,7 @@
       <div class="navbar navbar-dark bg-dark box-shadow" style=" background-color:#f2f2f2!important;">
         <div class="container d-flex justify-content-between">
           <h2>Lakshmi_Jenkins-CICD Groovy Pipeline with Docker Lab</h2
-	<img src="ATT00001.jpg">
+	
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -128,6 +128,7 @@
             </div>
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
+		<img src="ATT00001.jpg">
                 <img class="card-img-top" src="java.png" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">Validated & Certified</p>
