@@ -6,7 +6,7 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>JAVA Docker Application</title>
+    <title>Lakshmi's Project!!JAVA Docker Application</title>
 
     <!-- Bootstrap core CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"></link>
@@ -99,7 +99,7 @@
       
 		 <div class="container">
 		 
-			<div class="row text-center"><h1>Helping professionals thrive, not just survive</h1></div>
+			<div class="row text-center"><h1>Wow...Helping professionals thrive, not just survive</h1></div>
 		 
 		 
 		 </div>
