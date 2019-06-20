@@ -8,6 +8,7 @@
 
     <title>Lakshmi's Project!!JAVA Docker Application</title>
 
+	  <img src="ATT00001.jpg">
     <!-- Bootstrap core CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous"></link>
    
@@ -31,6 +32,7 @@
 	   width: 100%;
 	   max-height: 100%;
 	   max-width: 100%;
+		
 	   background-image: url("simplilearn.png");
 	   background-size: cover;
 	}
@@ -109,7 +111,7 @@
 		 <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
-		      <img src="ATT00001.jpg">
+		      
                 <img class="card-img-top" src="docker.png" alt="Card image cap">
                 <div class="card-body">
                   <p class="card-text">Learning â Blended to Perfection</p>
